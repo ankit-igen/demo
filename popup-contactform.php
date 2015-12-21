@@ -1,5 +1,5 @@
 <?php
-/* ddddd
+/* 
     Contact Form from HTML Form Guide
     This program is free software published under the
     terms of the GNU Lesser General Public License.
